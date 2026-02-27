@@ -41,7 +41,7 @@ const sanduloVenu = {
   experience: [
     "Full Stack Developer @ Unified Mentor, Haryana (Dec 2025 – Completed)",
     "Python Developer   @ The Developers Arena, Pune  (Dec 2025 – Completed)",
-    "Technology Intern  @ ExcelR, Bengaluru            (Jan 2024 – Jul 2023)",
+    "Technology Intern  @ ExcelR, Bengaluru            (Jan 2024 – Jul 2024)",
   ],
   stack: {
     languages : ["JavaScript (ES6+)", "Python", "SQL", "HTML5", "CSS3"],
