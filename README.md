@@ -35,13 +35,13 @@
 ```javascript
 const sanduloVenu = {
   name      : "Sandulo Venu",
-  role      : "Full Stack Developer",
+  role      : "Full Stack  Python Developer",
   location  : "Dharmavaram, Andhra Pradesh, India 🇮🇳",
   education : "B.Tech ECE @ VEMU Institute of Technology (2021–2025) | CGPA: 7.1",
   experience: [
-    "Full Stack Developer @ Unified Mentor, Haryana (Dec 2024 – Present)",
-    "Python Developer   @ The Developers Arena, Pune  (Dec 2024 – Present)",
-    "Technology Intern  @ ExcelR, Bengaluru            (Jan 2023 – Jul 2023)",
+    "Full Stack Developer @ Unified Mentor, Haryana (Dec 2025 – Completed)",
+    "Python Developer   @ The Developers Arena, Pune  (Dec 2025 – Completed)",
+    "Technology Intern  @ ExcelR, Bengaluru            (Jan 2024 – Jul 2023)",
   ],
   stack: {
     languages : ["JavaScript (ES6+)", "Python", "SQL", "HTML5", "CSS3"],
@@ -178,28 +178,35 @@ const sanduloVenu = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venu3302003&show_icons=true&theme=github_dark&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Venu3302003&theme=github-dark-blue&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venu3302003&show_icons=true&theme=github_dark&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Venu3302003&theme=dark&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=0d1117" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venu3302003&layout=compact&theme=github_dark&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venu3302003&layout=compact&theme=github_dark&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&langs_count=8" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Venu3302003&theme=darkhub&no-frame=true&no-bg=true&column=7" />
-</p>
+| 🥇 Achievement | 📊 Result |
+|:---|:---|
+| ⚡ EV App Page Load Optimization | **40% faster** via code splitting & lazy loading |
+| 🐍 Python Workflow Automation | **30% efficiency** improvement in backend processes |
+| 🔋 EV Recharge Bunk System | Full real-time booking system with interactive maps |
+| 📊 Sales Data Analysis | Business insights via Pandas, Matplotlib, NumPy |
+| 🌐 RESTful API Development | SQL-integrated APIs with reusable Python modules |
+| 📱 Responsive UI/UX Design | Mobile-first, accessible, cross-browser compatible |
+| 🎓 9 Certifications Earned | AI, Security, React, Python, Django, JS, SQL & more |
+| 🏢 2 Jobs — Fresher Level | Working professionally since Dec 2024 |
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venu3302003&theme=github-compact&hide_border=true&color=00d9ff&line=00d9ff&point=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venu3302003&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
